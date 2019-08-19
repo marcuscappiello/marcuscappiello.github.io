@@ -1,12 +1,12 @@
 # Education
 
 ## Ph.D., Applied Statistics
-### University of Calfornia, Riverside | June 2020 (expected)
-Dissertation title: *Applied Machine Learning Methods in Evidence Synthesis*
+### University of Calfornia, Riverside | September 2019 (expected)
+Dissertation title: *Computational models of visual working memory*
 
-## M.S., Statistics 
-### University of Calfornia, Riverside | June 2018
+## M.S., Psychology
+### University of Calfornia, Riverside | June 2015
 
-## B.S., Statistics | *summa cum laude*
-### University of Calfornia, Riverside | June 2016
-Honors thesis title: *A Novel Estimation Technique for a Five-Parameter Bivariate Beta Distribution*
+## B.S., Physics
+### Oregon State University, Corvallis | June 2013
+Honors thesis title: *Precision of high power diffusion tensor imaging on corpus callosum axon width deterioration*
