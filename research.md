@@ -1,11 +1,9 @@
 ## Research
 
 ### Research Interests
--Visual working memory
-
--Visual sensory memory
-
--Computational modeling of memory
+- Visual working memory
+- Visual sensory memory
+- Computational modeling of memory
 
 ### Publications
 -Xie, W., Cappiello, M., Meng, M., Rosenthal, R., & Zhang, W. (2018). ADRA2B Deletion Variant and Enhanced Cognitive Processing of Emotional Information: A Meta-Analytical Review. Neuroscience & Biobehavioral Reviews.
