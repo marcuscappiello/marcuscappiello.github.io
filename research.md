@@ -2,7 +2,9 @@
 
 ### Research Interests
 -Visual working memory
+
 -Visual sensory memory
+
 -Computational modeling of memory
 
 ### Publications
