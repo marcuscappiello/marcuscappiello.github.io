@@ -1,8 +1,13 @@
 # Teaching
 
-## Adjunct Instructor
-- PSYC 134 Cognitive Processes (Spring 2017 & Summer 2017)
-  - Department of Psychology at UC Riverside
+## California State University, Fullerton
+- [PSYCH 305 Cognitive Psychology (Fall 2019)](https://marcuscappiello.github.io/teaching/PSYCH305/f19.html)
+- PSYCH 305L Laboratory in Cognitive Psychology 
+
+## University of California, Riverside
+### Adjunct Instructor
+- PSYC 134 Cognitive Processes (Spring 2017)
+- PSYC 134 Cognitive Processes (Summer 2017)
 - [STAT 100A Introduction to Statistics (Summer 2019, Session B)](https://lgpcappiello.github.io/teaching/stat100a/su19.html)
 
 ### Online Course Development 
