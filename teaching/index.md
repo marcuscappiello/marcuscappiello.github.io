@@ -1,6 +1,7 @@
 # Teaching
 
 ## California State University, Fullerton
+- [PSYCH 202 Research Methods (Fall 2019)](https://marcuscappiello.github.io/teaching/PSYCH202/f19.html)
 - [PSYCH 305 Cognitive Psychology (Fall 2019)](https://marcuscappiello.github.io/teaching/PSYCH305/f19.html)
 - PSYCH 305L Laboratory in Cognitive Psychology (Spring 2019)
 
