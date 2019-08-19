@@ -2,7 +2,7 @@
 
 ## Adjunct Instructor
 - PSYC 134 Cognitive Processes (Spring 2017 & Summer 2017)
-  -Department of Psychology at UC Riverside
+  - Department of Psychology at UC Riverside
 - [STAT 100A Introduction to Statistics (Summer 2019, Session B)](https://lgpcappiello.github.io/teaching/stat100a/su19.html)
 
 ### Online Course Development 
