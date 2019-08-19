@@ -1,10 +1,10 @@
 # Education
 
-## Ph.D., Applied Statistics
+## Ph.D., Cognitive Psychology
 ### University of Calfornia, Riverside | September 2019 (expected)
 Dissertation title: *Computational models of visual working memory*
 
-## M.S., Psychology
+## M.S., Cognitive Psychology
 ### University of Calfornia, Riverside | June 2015
 Masters thesis title: *Dual trace model of visual sensory memory*
 
